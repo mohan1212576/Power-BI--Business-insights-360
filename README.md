@@ -5,7 +5,7 @@ Edit
 
 **Dashboard for Finance, Sales, Marketing, and Supply Chain**
 
-![Dashboard Screenshot]
+<a href="https://github.com/mohan1212576/Power-BI--Business-insights-360/blob/main/Screenshot%201.png">![Dashboard Screenshot]</a>
 
 ## 🌟 Project Overview
 
