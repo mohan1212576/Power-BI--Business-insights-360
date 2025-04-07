@@ -49,7 +49,7 @@ The goal of this project is to implement an advanced analytics solution using **
 *An intuitive entry point for all stakeholders.*<a href="https://github.com/mohan1212576/Power-BI--Business-insights-360/blob/main/Screenshot%201.png">Check it out</a>
 
 ### 2. Data Modelling
-*Complex data modelling involving 10+ interconnected tables.*
+*Complex data modelling involving 10+ interconnected tables. *<a href="https://github.com/mohan1212576/Power-BI--Business-insights-360/blob/main/Project_Screenshot2_updated.png">Check it out</a>
 
 
 ## 🔗 Useful Links
