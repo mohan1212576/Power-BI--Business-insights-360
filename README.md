@@ -55,7 +55,7 @@ The goal of this project is to implement an advanced analytics solution using **
 ## 🔗 Useful Links
 
 - **🔗 LinkedIn Post:** <a href="https://www.linkedin.com/posts/mohan-b-4b7719199_businessinsights360-powerbi-datavisualization-activity-7314969410534838272-U0e1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC6O9IsBUFscZdiXW4-tlacqbHfAQjEVH0M">Check it out</a>
-- **🔗 Live Power BI Dashboard:** [View Live Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiNGI0MjZlMjQtZGVhNi00NTliLTk1ZWEtNTdiNzM1MTgzMzc0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection6b7f9720829a1d745700](https://app.powerbi.com/groups/e0f9c425-7cbd-4960-90f9-6374aa32010c/reports/edf6ded7-3903-43d1-9372-c33867f1c951/a45d31b0b4aa5e0566c0?experience=power-bi&clientSideAuth=0))
+- **🔗 Live Power BI Dashboard:** <a href="https://app.powerbi.com/groups/e0f9c425-7cbd-4960-90f9-6374aa32010c/reports/edf6ded7-3903-43d1-9372-c33867f1c951/a45d31b0b4aa5e0566c0?experience=power-bi&clientSideAuth=0"> [View Live Dashboard]</a>
 
 ---
 
